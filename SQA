@@ -1,2 +1,3 @@
-mkdir src tests docs
-touch src/main.py tests/test_main.py README.md
+git clone https://github.com/username/patient-tracker.git
+cd patient-tracker
+git checkout -b change-request-001
