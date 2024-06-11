@@ -1,0 +1,2 @@
+mkdir src tests docs
+touch src/main.py tests/test_main.py README.md
